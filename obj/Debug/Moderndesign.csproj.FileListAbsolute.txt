@@ -1,0 +1,76 @@
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\bin\Debug\Moderndesign.exe.config
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\bin\Debug\Moderndesign.exe
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\bin\Debug\Moderndesign.pdb
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign.csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\MainWindow.g.cs
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\App.g.cs
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign_MarkupCompile.cache
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign_MarkupCompile.lref
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\App.baml
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\MainWindow.baml
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign.g.resources
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign.Properties.Resources.resources
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign.csproj.GenerateResource.cache
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign.exe
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Moderndesign.pdb
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\Theme\TextBoxTheme.baml
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\MVVM\View\HomeView.g.cs
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\MVVM\View\HomeView.baml
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\MVVM\View\LoadView.g.cs
+C:\Users\jakob\source\repos\Moderndesign\Moderndesign\obj\Debug\MVVM\View\LoadView.baml
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\bin\Debug\Moderndesign.exe.config
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\bin\Debug\Moderndesign.exe
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\bin\Debug\Moderndesign.pdb
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign.csproj.AssemblyReference.cache
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign.csproj.SuggestedBindingRedirects.cache
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Theme\MenuButtonTheme.baml
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Theme\TextBoxTheme.baml
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\MainWindow.g.cs
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\MVVM\View\HomeView.g.cs
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\MVVM\View\LoadView.g.cs
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\App.g.cs
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign_MarkupCompile.cache
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign_MarkupCompile.lref
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\App.baml
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\MainWindow.baml
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\MVVM\View\HomeView.baml
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\MVVM\View\LoadView.baml
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign.g.resources
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign.Properties.Resources.resources
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign.csproj.GenerateResource.cache
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign.csproj.CoreCompileInputs.cache
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign.exe
+D:\Dokumenter\Uddannelse - Data og kommunikation\Programmering\Moderndesign\Moderndesign\obj\Debug\Moderndesign.pdb
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\bin\Debug\Moderndesign.exe.config
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\bin\Debug\Moderndesign.exe
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\bin\Debug\Moderndesign.pdb
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.csproj.AssemblyReference.cache
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Theme\TextBoxTheme.baml
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\MainWindow.g.cs
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\MVVM\View\HomeView.g.cs
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\MVVM\View\LoadView.g.cs
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\App.g.cs
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign_MarkupCompile.cache
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign_MarkupCompile.lref
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\App.baml
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\MainWindow.baml
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\MVVM\View\HomeView.baml
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\MVVM\View\LoadView.baml
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.g.resources
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.Properties.Resources.resources
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.csproj.GenerateResource.cache
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.exe
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.pdb
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\bin\Debug\Moderndesign.exe.manifest
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\bin\Debug\Moderndesign.application
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.exe.manifest
+C:\Users\jakob\source\repos\DanskVinImport WPF\Moderndesign\obj\Debug\Moderndesign.application
